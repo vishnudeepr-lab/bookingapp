@@ -1,0 +1,6 @@
+{
+  "name": "Aura Booking | Premium Appointments & Reservations",
+  "description": "A modern, high-precision booking platform inspired by Linear and Airbnb for services, consultations, wellness, and studio reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
